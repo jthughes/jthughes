@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## About Me
+A graduate from University of Adelaide with a Bachelor of Mathematical & Computer Sciences majoring in Computer Science and a Bachelor of Teaching, I've had a life-long passion for technology. Currently a student at 42 Adelaide, working to rapidly complete the 42 Common Core by the end of the year, I'm looking to enter the software development industry.
+
+## Coding Experience
+
+
 <!--
 **jthughes/jthughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
