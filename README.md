@@ -15,7 +15,7 @@ A graduate from University of Adelaide with a Bachelor of Mathematical & Compute
         - A simple raycast 3D object renderer
 - 1 year of C#:
   - teaching year 10 Digital Technologies a mix of Visual Studio Windows Form apps and 2D Unity games. (2022)
-  - built a [C++ class generator](https://github.com/jthughes/42-CPP-Class-Builder) webpage using Blazor ([link](https://jthughes.github.io/42-CPP-Class-Builder/))
+  - built a [C++ class generator](https://github.com/jthughes/42-CPP-Class-Builder) webpage using Blazor ([link](https://jthughes.github.io/42-CPP-Class-Builder/)) to generate the .hpp and .cpp for C++ objects defined in Canonical Orthodox Form (a form required by my studies at 42 Adelaide). 
 - 5 Python projects:
   - Collaborator on [companion web app](https://github.com/isabelle-sanford/kkc4) for a highly customised online mafia/werewolf forum game.
     - Implemented a lot of the object structure for modelling game state.
