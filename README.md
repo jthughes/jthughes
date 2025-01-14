@@ -17,6 +17,9 @@ A graduate from University of Adelaide with a Bachelor of Mathematical & Compute
   - teaching year 10 Digital Technologies a mix of Visual Studio Windows Form apps and 2D Unity games. (2022)
   - built a [C++ class generator](https://github.com/jthughes/42-CPP-Class-Builder) webpage using Blazor ([link](https://jthughes.github.io/42-CPP-Class-Builder/))
 - 5 Python projects:
+  - Collaborator on [companion web app](https://github.com/isabelle-sanford/kkc4) for a highly customised online mafia/werewolf forum game.
+    - Implemented a lot of the object structure for modelling game state.
+    - Built logic to handle action that can affect other actions so as to avoid paradoxes and ensure actions are applied in the appropriate order.
   - Guided [Boot.Dev](https://www.boot.dev/) projects:
     - [BookBot](https://github.com/jthughes/bookbot)
     - [Asteroids](https://github.com/jthughes/asteroidsgame) - PyGame
@@ -24,11 +27,11 @@ A graduate from University of Adelaide with a Bachelor of Mathematical & Compute
     - [Maze Generator & Solver](https://github.com/jthughes/mazegen) - Tkinter
   - 42 Adelaide Capstone project:
     - Pong Web app - JavaScript SPA, Django backend with PostgreSQL
-  - 3 Go projects:
-    - Guided [Boot.Dev](https://www.boot.dev/) projects:
-      - [PokeDex](https://github.com/jthughes/pokedexcli) - a CLI app that interacts with the [PokeAPI](https://pokeapi.co/)
-      - [Gator](https://github.com/jthughes/gatorcli) - a CLI RSS feed aggregator that downloads RSS feeds into a PostgreSQL database and allows users to subscribe to particular feed and retrieve posts.
-      - [Chirpy](https://github.com/jthughes/chirpynetwork) - an exercise in building a functional sketch of an online communication platform, creating API endpoints for a client to interactive, supporting authentication via JWT.
+- 3 Go projects:
+  - Guided [Boot.Dev](https://www.boot.dev/) projects:
+    - [PokeDex](https://github.com/jthughes/pokedexcli) - a CLI app that interacts with the [PokeAPI](https://pokeapi.co/)
+    - [Gator](https://github.com/jthughes/gatorcli) - a CLI RSS feed aggregator that downloads RSS feeds into a PostgreSQL database and allows users to subscribe to particular feed and retrieve posts.
+    - [Chirpy](https://github.com/jthughes/chirpynetwork) - an exercise in building a functional sketch of an online communication platform, creating API endpoints for a client to interactive, supporting authentication via JWT.
 
 <!--
 **jthughes/jthughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
