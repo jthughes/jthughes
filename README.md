@@ -6,8 +6,16 @@ A graduate from University of Adelaide with a Bachelor of Mathematical & Compute
 ## Coding Experience
 - 4 years of C and C++:
   - 3 years at the University of Adelaide during Bachelor of Mathematical and Computer Sciences degree completing a Computer Science major. (2015-2017)
+    - [OpenGL 3D scene](https://github.com/jthughes/University/tree/master/2017/s2) with procedurally generated terrain, animated skybox synced with day/night light cycle, movement with collisions, locational sound, cell-shading and a fly through animation system.
   - 1 year of C and C++98 at 42 Adelaide completing the 42 Common Core. (2024)
-- 1 year of C# teaching year 10 Digital Technologies a mix of Visual Studio Windows Form apps and 2D Unity games. (2022)
+    - [Projects](https://github.com/jthughes/42-Common-Core) including:
+        - [A basic shell](https://github.com/jthughes/42-Common-Core/blob/main/projects/03-Minishell.md)
+        - [Fractal Generator](https://github.com/jthughes/42-Common-Core/blob/main/projects/02-fractol.md)
+        - Small IRC server
+        - A simple raycast 3D object renderer
+- 1 year of C#:
+  - teaching year 10 Digital Technologies a mix of Visual Studio Windows Form apps and 2D Unity games. (2022)
+  - built a [C++ class generator](https://github.com/jthughes/42-CPP-Class-Builder) webpage using Blazor ([link](https://jthughes.github.io/42-CPP-Class-Builder/))
 - 5 Python projects:
   - Guided [Boot.Dev](https://www.boot.dev/) projects:
     - [BookBot](https://github.com/jthughes/bookbot)
