@@ -7,7 +7,7 @@ A graduate from University of Adelaide with a Bachelor of Mathematical & Compute
 - 4 years of C and C++:
   - 3 years at the University of Adelaide during Bachelor of Mathematical and Computer Sciences degree completing a Computer Science major. (2015-2017)
   - 1 year of C and C++98 at 42 Adelaide completing the 42 Common Core. (2024)
-- 1 year of C#, teaching year 10 Digital Technologies. (2022)
+- 1 year of C# teaching year 10 Digital Technologies a mix of Visual Studio Windows Form apps and 2D Unity games. (2022)
 - 5 Python projects:
   - Guided [Boot.Dev](https://www.boot.dev/) projects:
     - [BookBot](https://github.com/jthughes/bookbot)
@@ -16,6 +16,11 @@ A graduate from University of Adelaide with a Bachelor of Mathematical & Compute
     - [Maze Generator & Solver](https://github.com/jthughes/mazegen) - Tkinter
   - 42 Adelaide Capstone project:
     - Pong Web app - JavaScript SPA, Django backend with PostgreSQL
+  - 3 Go projects:
+    - Guided [Boot.Dev](https://www.boot.dev/) projects:
+      - [PokeDex](https://github.com/jthughes/pokedexcli) - a CLI app that interacts with the [PokeAPI](https://pokeapi.co/)
+      - [Gator](https://github.com/jthughes/gatorcli) - a CLI RSS feed aggregator that downloads RSS feeds into a PostgreSQL database and allows users to subscribe to particular feed and retrieve posts.
+      - [Chirpy](https://github.com/jthughes/chirpynetwork) - an exercise in building a functional sketch of an online communication platform, creating API endpoints for a client to interactive, supporting authentication via JWT.
 
 <!--
 **jthughes/jthughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
