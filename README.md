@@ -27,7 +27,9 @@ A graduate from University of Adelaide with a Bachelor of Mathematical & Compute
     - [Maze Generator & Solver](https://github.com/jthughes/mazegen) - Tkinter
   - 42 Adelaide Capstone project:
     - Pong Web app - JavaScript SPA, Django backend with PostgreSQL
-- 3 Go projects:
+- 4 Go projects:
+  - Personal projects:
+    - [disgo](https://github.com/jthughes/disgo) - a CLI music player app for streaming music from OneDrive
   - Guided [Boot.Dev](https://www.boot.dev/) projects:
     - [PokeDex](https://github.com/jthughes/pokedexcli) - a CLI app that interacts with the [PokeAPI](https://pokeapi.co/)
     - [Gator](https://github.com/jthughes/gatorcli) - a CLI RSS feed aggregator that downloads RSS feeds into a PostgreSQL database and allows users to subscribe to particular feed and retrieve posts.
